@@ -224,7 +224,7 @@ ul#nav li.current a { color: #EC9600; }
 
 #about {
    /* background: #2B2B2B; */
-   background: #DCDCDC;
+   background: whitesmoke;
    padding-top: 96px;
    padding-bottom: 66px;
    overflow: hidden;
@@ -267,7 +267,7 @@ ul#nav li.current a { color: #EC9600; }
 /* ------------------------------------------------------------------ */
 
 #resume {
-   background: #fff;
+   background: whitesmoke;
    padding-top: 90px;
    padding-bottom: 72px;
    overflow: hidden;
@@ -498,7 +498,7 @@ ul#nav li.current a { color: #EC9600; }
 
 #portfolio {
    /* background: #ebeeee; */
-   background: whitesmoke;
+   background: #DCDCDC;
    padding-top: 90px;
    padding-bottom: 60px;
 }
@@ -853,7 +853,6 @@ call-to-action .button {
     margin: 0 6px;
     display: inline-block;
     zoom: 1;
-    *display: inline;
 }
 .flex-control-paging li a {
     width: 12px;

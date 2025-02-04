@@ -3,16 +3,14 @@
   "main": {
     "name":"Saurabh Joshi",
     "occupation":"(Your Occupation Here)",
-    "description":"A Software developer and Data analyst actively looking for Full-time opportunities from Feb 2020.",
+    "description":"Experienced Software Engineer working in Adtech",
     "websiteLogo": "/images/saurabhlogo.png",
     "image":"/images/profilepic.jpg",
-    "bio":  [" Hi, I am Saurabh Joshi, a recently graduated from Rochester Institute of Technology(RIT), New York ",
-    "with Masters in Information Sciences and Technologies. My interests in Full-Stack Development and Data Analytics. ", 
-    "I am at present actively looking for Full-time positions. I earned my Bachelor's degree in Information Technology from ",
-    "Mumbai University, India from 2013 to 2016. Previously, I also completed a diploma in Computer Technology ",
-    "from 2010 to 2013 from Maharashtra State Board of Technical Education. In my free time I like travelling to new places, am a big ", 
-    "fan of European Soccer and enjoy cooking delicious Vegetarian food."],
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "bio":  ["Hi, I am Saurabh Joshi and I work as a Software Engineer at Kargo Global Inc., developing high-performance advertising solutions for mobile, desktop, and CTV.",
+    " I started my career in Quality Assurance (QA), where I built automated testing solutions and ensured system reliability.", 
+    " Over time, I transitioned into software engineering, contributing to backend development, large-scale system optimizations, and ad tech integrations.",
+    " My experience includes working with real-time bidding (RTB), header bidding, OpenRTB, and Prebid, as well as optimizing bidding strategies and maintaining integrations with publishers and DSPs.",
+    " I hold an M.S. in Information Sciences & Technologies from RIT and a B.E. in IT from Mumbai University. Outside of work, I enjoy hiking, cooking vegetarian food, learning guitar, and exploring new technologies."],
     "email": "saurabhvjjoshi@gmail.com",
     "phone": "+1 (585) 309–3540",
     "address":{
@@ -21,7 +19,7 @@
       "state":"United States of America",
       "zip": "07306."
     },
-    "resumedownload":"/document/Resume_SJoshi.pdf",
+    "resumedownload":"/document/SaurabhJoshi_Resume.pdf",
     "social":[
       {
         "name":"Linkedin",
@@ -32,21 +30,6 @@
         "name":"Github",
         "url":"https://github.com/sj1815",
         "className":"fab fa-github"
-      },
-      {
-        "name":"Facebook",
-        "url":"https://www.facebook.com/saurabh.joshi.98",
-        "className":"fab fa-facebook"
-      },
-      {
-        "name":"Instagram",
-        "url":"https://www.instagram.com/saurabhjoshi.exe/",
-        "className":"fab fa-instagram"
-      },
-      {
-        "name":"Handshake",
-        "url":"https://app.joinhandshake.com/users/6913528",
-        "className": "far fa-handshake"
       }
     ]
   },
@@ -54,20 +37,39 @@
     "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
     "skills":[
       {
-        "name":"Java",
-        "logo":"java.png"
+        "name":"Go",
+        "logo":"golang.png"
       },
       {
         "name":"Python",
         "logo":"python.png"
       },
       {
-        "name":"R",
-        "logo":"r.png"
+        "name":"Java",
+        "logo":"java.png"
+      }, {
+        "name":"Kubernetes",
+        "logo":"k8s.png"
       },
       {
-        "name":"C Sharp",
-        "logo":"hashtag.png"
+        "name":"JavaScript",
+        "logo":"javascript.png"
+      },
+      {
+        "name":"Snowflake",
+        "logo":"snowflake.png"
+      },
+      {
+        "name":"AWS",
+        "logo":"aws.png"
+      },
+      {
+        "name":"Docker",
+        "logo":"docker.png"
+      },      
+      {
+        "name":"Git",
+        "logo":"git.png"
       },
       {
         "name":"HTML5",
@@ -78,8 +80,8 @@
         "logo":"css.png"
       },
       {
-        "name":"JavaScript",
-        "logo":"javascript.png"
+        "name":"Node.js",
+        "logo":"nodejs.png"
       },
       {
         "name":"TypeScript",
@@ -98,26 +100,6 @@
         "logo":"react.png"
       },
       {
-        "name":"Redux",
-        "logo":"redux.png"
-      },
-      {
-        "name":"Node.js",
-        "logo":"nodejs.png"
-      },
-      {
-        "name":"Hibernate",
-        "logo":"hibernate.png"
-      },
-      {
-        "name":"Spring MVC",
-        "logo":"spring.png"
-      },
-      {
-        "name":"Firebase",
-        "logo":"firebase.png"
-      },
-      {
         "name":"MySQL",
         "logo":"mysql.png"
       },
@@ -126,12 +108,12 @@
         "logo":"mongodb.png"
       },
       {
-        "name":"Neo4J",
-        "logo":"neo4j.png"
+        "name":"R",
+        "logo":"r.png"
       },
       {
-        "name":"Git",
-        "logo":"git.png"
+        "name":"Redux",
+        "logo":"redux.png"
       }
     ]
   },
@@ -214,20 +196,31 @@
   "history":{
     "information" : [
       {
-        "date": "August 2010 to June 2013",
-        "title": "Thakur Polytechnic(MSBTE)",
-        "subtitle": "Mumbai, Maharashtra, India",
-        "description": "Diploma in Computer Technology",
-        "icon": "1",
-        "type": "vertical-timeline-element--education"
+        "date": "Feb 2024 - ",
+        "title": "Assocate Software Engineer",
+        "subtitle": "Kargo Global Inc.",
+        "description": ["Transitioned from QA to Software Engineering, developing product solutions for Kargo’s large-scale distributed advertising auction platform,",
+        " optimizing bidding strategies, integrating a critical CTV solution, and leading multiple projects to enhance ad-serving capabilities, all while maintaining seamless integrations with publishers and DSPs."],
+        "icon": "2",
+        "type": "vertical-timeline-element--work"
       },
       {
-        "date": "August 2013 to June 2016",
-        "title": "Mumbai University",
-        "subtitle": "Mumbai, Maharashtra, India",
-        "description": "B.E, Information Technology",
-        "icon": "1",
-        "type": "vertical-timeline-element--education"
+        "date": "March 2020 - Feb 2024",
+        "title": "Assocate Software Engineer in Test",
+        "subtitle": "Kargo Global Inc.",
+        "description": ["Led QA efforts for both the Kraken and Data teams, developing and optimizing automated testing, ",
+        "QA processes, and ad serving infrastructure for Kraken’s SSP, contributing to significant revenue growth and successful migration to in-house solutions."],
+        "icon": "2",
+        "type": "vertical-timeline-element--work"
+      },
+      {
+        "date": "August 2019 to December 2019",
+        "title": "Student Lab Assistant",
+        "subtitle": "RIT, Dept of IST",
+        "description": ["Helping System Administrator with looking after lab requirements and resolving software hardware",
+        " and networking issues. Maintaining the inventory for all the department labs."],
+        "icon": "2",
+        "type": "vertical-timeline-element--work"
       },
       {
         "date": "August 2017 to December 2019",
@@ -238,15 +231,13 @@
         "type": "vertical-timeline-element--education"
       },
       {
-        "date": "August 2019 to December 2019",
-        "title": "Student Lab Assistant",
-        "subtitle": "RIT, Dept of IST",
-        "description": ["Helping System Administrator with looking after lab requirements and resolving software hardware",
-           " and networking issues. Maintaining the inventory for all the department labs."],
-        "icon": "2",
-        "type": "vertical-timeline-element--work"
-      }
-    
+        "date": "August 2013 to June 2016",
+        "title": "Mumbai University",
+        "subtitle": "Mumbai, Maharashtra, India",
+        "description": "B.E, Information Technology",
+        "icon": "1",
+        "type": "vertical-timeline-element--education"
+      }   
     ]
   }
 }
